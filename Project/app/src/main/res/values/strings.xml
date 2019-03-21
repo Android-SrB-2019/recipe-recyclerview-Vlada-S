@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipies</string>
+    <string name="app1_name">Recipies</string>
+    <string name="action_settings">Settings</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions</string>
+    <string name="image_content">image_content</string>
+    <string name="ingredients2">Ingredients</string>
+</resources>
